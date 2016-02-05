@@ -1,5 +1,9 @@
 # mechmat
-Graduate-level resources in Mechanical Engineering and Materials Science
+Academic resources in Mechanical Engineering and Materials Science
+
+## Continuum mechanics resources from the web
+1. [Rohan Abeyaratne (MIT): Mathematical preliminaries](http://web.mit.edu/abeyaratne/Volumes/RCA_Vol_1_Math_Apr2014.pdf)
+2. [Rohan Abeyaratne (MIT): Continuum Mechanics](http://web.mit.edu/abeyaratne/Volumes/RCA_Vol_II.pdf)
 
 ## Scholarships and Fellowships for graduate students
 1. [ASME Mechanical Enginnering teaching fellowship](https://www.asme.org/career-education/scholarships-and-grants/scholarship-and-loans/fellowships/graduate-teaching-fellowships) - deadline February 15, post-qualifying, $5000/year
